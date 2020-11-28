@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable.deps.json
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable.dll
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/ref/asNullable.dll
+/home/wwl/CSharpBackupInVSC/asNullable/bin/Debug/net5.0/asNullable.pdb
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.dll
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/ref/asNullable.dll
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.pdb
+/home/wwl/CSharpBackupInVSC/asNullable/obj/Debug/net5.0/asNullable.genruntimeconfig.cache
