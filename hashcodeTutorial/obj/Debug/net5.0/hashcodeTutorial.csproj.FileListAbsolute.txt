@@ -1,0 +1,16 @@
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial.deps.json
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial.runtimeconfig.json
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial.runtimeconfig.dev.json
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial.dll
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/ref/hashcodeTutorial.dll
+/home/wwl/VisualStudioCode/hashcodeTutorial/bin/Debug/net5.0/hashcodeTutorial.pdb
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.csprojAssemblyReference.cache
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.AssemblyInfoInputs.cache
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.AssemblyInfo.cs
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.csproj.CoreCompileInputs.cache
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.dll
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/ref/hashcodeTutorial.dll
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.pdb
+/home/wwl/VisualStudioCode/hashcodeTutorial/obj/Debug/net5.0/hashcodeTutorial.genruntimeconfig.cache

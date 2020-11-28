@@ -1,0 +1,16 @@
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7.deps.json
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7.runtimeconfig.json
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7.runtimeconfig.dev.json
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7.dll
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/ref/CodeList2-7.dll
+/home/wwl/VisualStudioCode/CodeList2-7/bin/Debug/net5.0/CodeList2-7.pdb
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.csprojAssemblyReference.cache
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.AssemblyInfoInputs.cache
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.AssemblyInfo.cs
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.csproj.CoreCompileInputs.cache
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.dll
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/ref/CodeList2-7.dll
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.pdb
+/home/wwl/VisualStudioCode/CodeList2-7/obj/Debug/net5.0/CodeList2-7.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1.deps.json
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1.runtimeconfig.json
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1.runtimeconfig.dev.json
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1.dll
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/ref/sample1.dll
+/home/wwl/VisualStudioCode/sample1/bin/Debug/net5.0/sample1.pdb
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.csprojAssemblyReference.cache
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.AssemblyInfoInputs.cache
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.AssemblyInfo.cs
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.csproj.CoreCompileInputs.cache
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.dll
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/ref/sample1.dll
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.pdb
+/home/wwl/VisualStudioCode/sample1/obj/Debug/net5.0/sample1.genruntimeconfig.cache

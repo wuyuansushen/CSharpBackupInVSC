@@ -1,0 +1,16 @@
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing.deps.json
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing.runtimeconfig.json
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing.runtimeconfig.dev.json
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing.dll
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/ref/NullableBoxing.dll
+/home/wwl/VisualStudioCode/NullableBoxing/bin/Debug/net5.0/NullableBoxing.pdb
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.csprojAssemblyReference.cache
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.AssemblyInfoInputs.cache
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.AssemblyInfo.cs
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.csproj.CoreCompileInputs.cache
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.dll
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/ref/NullableBoxing.dll
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.pdb
+/home/wwl/VisualStudioCode/NullableBoxing/obj/Debug/net5.0/NullableBoxing.genruntimeconfig.cache

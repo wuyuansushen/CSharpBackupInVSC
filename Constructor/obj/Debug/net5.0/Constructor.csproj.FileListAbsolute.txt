@@ -1,0 +1,16 @@
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor.deps.json
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor.runtimeconfig.json
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor.runtimeconfig.dev.json
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor.dll
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/ref/Constructor.dll
+/home/wwl/VisualStudioCode/Constructor/bin/Debug/net5.0/Constructor.pdb
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.csprojAssemblyReference.cache
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.AssemblyInfoInputs.cache
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.AssemblyInfo.cs
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.csproj.CoreCompileInputs.cache
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.dll
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/ref/Constructor.dll
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.pdb
+/home/wwl/VisualStudioCode/Constructor/obj/Debug/net5.0/Constructor.genruntimeconfig.cache
