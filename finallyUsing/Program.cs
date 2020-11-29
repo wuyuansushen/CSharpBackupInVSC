@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections;
-using System.Collections.Generic;
+using alias=System.Collections.Generic;
 
 namespace finallyUsing
 {
     class Program
     {
-        static IEnumerable<string> Iterator()
+        static alias::IEnumerable<string> Iterator()
         {
             try{
                 Console.WriteLine("Before first yield");
