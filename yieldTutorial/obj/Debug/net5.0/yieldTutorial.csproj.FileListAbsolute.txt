@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial.deps.json
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial.dll
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/ref/yieldTutorial.dll
+/home/wwl/CSharpBackupInVSC/yieldTutorial/bin/Debug/net5.0/yieldTutorial.pdb
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.dll
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/ref/yieldTutorial.dll
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.pdb
+/home/wwl/CSharpBackupInVSC/yieldTutorial/obj/Debug/net5.0/yieldTutorial.genruntimeconfig.cache
