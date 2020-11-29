@@ -6,12 +6,12 @@ namespace finallyUsing
 {
     class Program
     {
-        static alias::IEnumerable<string> Iterator()
+        static global::System.Collections.Generic.IEnumerable<string> Iterator()
         {
             try{
-                Console.WriteLine("Before first yield");
+                global::System.Console.WriteLine("Before first yield");
                 yield return "first";
-                Console.WriteLine("Between yields");
+                global::System.Console.WriteLine("Between yields");
                 yield return "second";
                 Console.WriteLine("After second yield");
             }
@@ -26,6 +26,7 @@ namespace finallyUsing
             {
                 Console.WriteLine($"Received value: {value}");
             }
+            global::System.Console.WriteLine("End!");
         }
     }
 }
