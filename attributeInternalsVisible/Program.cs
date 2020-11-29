@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 
-[assembly:InternalsVisibleTo("")]
+//[assembly:InternalsVisibleTo("")]
 namespace attributeInternalsVisible
 {
 //[assembly:InternalsVisibleTo("")]
