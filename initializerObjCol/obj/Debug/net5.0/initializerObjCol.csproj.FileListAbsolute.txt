@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol.deps.json
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol.dll
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/ref/initializerObjCol.dll
+/home/wwl/CSharpBackupInVSC/initializerObjCol/bin/Debug/net5.0/initializerObjCol.pdb
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.dll
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/ref/initializerObjCol.dll
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.pdb
+/home/wwl/CSharpBackupInVSC/initializerObjCol/obj/Debug/net5.0/initializerObjCol.genruntimeconfig.cache
