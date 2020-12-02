@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10.deps.json
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10.dll
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/ref/CodeList3-10.dll
+/home/wwl/CSharpBackupInVSC/CodeList3-10/bin/Debug/net5.0/CodeList3-10.pdb
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.dll
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/ref/CodeList3-10.dll
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.pdb
+/home/wwl/CSharpBackupInVSC/CodeList3-10/obj/Debug/net5.0/CodeList3-10.genruntimeconfig.cache
