@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree.deps.json
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree.dll
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/ref/expressionTree.dll
+/home/wwl/CSharpBackupInVSC/expressionTree/bin/Debug/net5.0/expressionTree.pdb
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.dll
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/ref/expressionTree.dll
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.pdb
+/home/wwl/CSharpBackupInVSC/expressionTree/obj/Debug/net5.0/expressionTree.genruntimeconfig.cache
