@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod.deps.json
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod.dll
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/ref/nonExtendedMethod.dll
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/bin/Debug/net5.0/nonExtendedMethod.pdb
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.dll
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/ref/nonExtendedMethod.dll
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.pdb
+/home/wwl/CSharpBackupInVSC/nonExtendedMethod/obj/Debug/net5.0/nonExtendedMethod.genruntimeconfig.cache

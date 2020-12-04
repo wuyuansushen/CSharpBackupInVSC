@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "simpleQuery/1.0.0": {
+        "runtime": {
+          "simpleQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "simpleQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

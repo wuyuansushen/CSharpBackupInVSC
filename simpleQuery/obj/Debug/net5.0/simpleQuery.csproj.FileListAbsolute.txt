@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery.deps.json
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery.dll
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/ref/simpleQuery.dll
+/home/wwl/CSharpBackupInVSC/simpleQuery/bin/Debug/net5.0/simpleQuery.pdb
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.dll
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/ref/simpleQuery.dll
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.pdb
+/home/wwl/CSharpBackupInVSC/simpleQuery/obj/Debug/net5.0/simpleQuery.genruntimeconfig.cache
