@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression.deps.json
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression.dll
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/ref/queryExpression.dll
+/home/wwl/CSharpBackupInVSC/queryExpression/bin/Debug/net5.0/queryExpression.pdb
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.dll
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/ref/queryExpression.dll
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.pdb
+/home/wwl/CSharpBackupInVSC/queryExpression/obj/Debug/net5.0/queryExpression.genruntimeconfig.cache
