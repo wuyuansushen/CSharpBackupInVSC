@@ -1,0 +1,16 @@
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause.deps.json
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause.runtimeconfig.json
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause.runtimeconfig.dev.json
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause.dll
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/ref/letClause.dll
+/home/wwl/CSharpBackupInVSC/letClause/bin/Debug/net5.0/letClause.pdb
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.csprojAssemblyReference.cache
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.GeneratedMSBuildEditorConfig.editorconfig
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.AssemblyInfoInputs.cache
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.AssemblyInfo.cs
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.csproj.CoreCompileInputs.cache
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.dll
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/ref/letClause.dll
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.pdb
+/home/wwl/CSharpBackupInVSC/letClause/obj/Debug/net5.0/letClause.genruntimeconfig.cache
